@@ -1,7 +1,1 @@
 backend/.env
-
-node_modules/
-build/
-.venv/
-__pycache__/
-*.pyc
